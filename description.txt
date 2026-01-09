@@ -1,0 +1,1 @@
+Task Manager Pro - A web-based task management system for shift-based operations. Built with HTML, CSS, JavaScript, and PHP with MySQL. Features include multi-user support, shift-based task tracking, real-time progress monitoring, dashboard analytics, and reporting. Ideal for manufacturing environments requiring consistent task completion tracking.

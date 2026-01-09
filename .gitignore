@@ -1,0 +1,47 @@
+# Local configuration files
+*.local
+*.env
+.env
+
+# Database files
+*.sql
+db_backup_*.sql
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# XAMPP specific
+/xampp/
+*.db.bak
+
+# PHP related
+*.php.bak
+*.bak
+
+# Browser extensions
+*.crx
+
+# Editor backup files
+*~
+\#*\#
